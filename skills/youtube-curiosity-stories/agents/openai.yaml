@@ -1,0 +1,4 @@
+interface:
+  display_name: "油管有趣事情分享"
+  short_description: "围绕陌生却引人好奇的事实，策划英文油管选题、研究材料并迭代中英文口播稿"
+  default_prompt: "使用 $youtube-curiosity-stories，先给我值得点开的选题；选定后创作英文口播稿和中文审稿版。"

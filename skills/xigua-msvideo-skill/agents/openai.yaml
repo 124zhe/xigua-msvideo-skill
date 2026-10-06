@@ -1,0 +1,7 @@
+interface:
+
+  display_name: "Xigua MS Video · YouTube 视频全流程"
+
+  short_description: "串联选题、文案、配音、时间戳分镜、生图与成片，支持已有素材和断点续作"
+
+  default_prompt: "使用 $xigua-msvideo-skill，按现有素材从最早未完成的阶段继续，完成这期 YouTube 知识视频。"

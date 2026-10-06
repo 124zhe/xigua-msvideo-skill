@@ -1,0 +1,4 @@
+interface:
+  display_name: "油管 MS Paint 分镜与生图"
+  short_description: "把定稿拆成约两秒变画面的粗绘分镜，校准鲜艳配色与场景关系后批量生图"
+  default_prompt: "使用 $youtube-ms-paint-images，按已确认的脚本、画风和样图制作时间戳分镜与图片，并以分镜编号加开始时间戳命名。"

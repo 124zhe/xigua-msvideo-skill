@@ -1,0 +1,3 @@
+# The WordBoundary constructor interface was checked in this release.
+# Service availability still requires a live check when generating narration.
+edge-tts==7.2.8

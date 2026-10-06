@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "timing_status": "estimated",
+  "duration_ms": 4000,
+  "note": "Planning example only. No audio or images are bundled for this timeline. Align real audio before rendering.",
+  "frames": [
+    {
+      "id": 1,
+      "estimated_start_ms": 0,
+      "estimated_end_ms": 2000,
+      "narration_fragment": "You can breathe in this air.",
+      "visual_subject": "A traveler inhales on an ancient shore",
+      "shot_type": "Wide shot",
+      "composition_action": "A small traveler stands on the right beside a broad blue sea and gray rocks.",
+      "major_change": "Establish the shore and the traveler",
+      "color_structure": "Blue sea, gray rocks, white background, uneven black outlines",
+      "people_rule": "Small traveler as observer and scale reference",
+      "onscreen_text": [],
+      "accuracy_constraints": ["Hypothetical scene, not a reconstruction photograph", "No land plants in this ancient-Earth example"],
+      "image_review_status": "pending",
+      "image_sha256": null
+    },
+    {
+      "id": 2,
+      "estimated_start_ms": 2000,
+      "estimated_end_ms": 4000,
+      "narration_fragment": "But it does not provide enough oxygen.",
+      "visual_subject": "Lungs looking for oxygen",
+      "shot_type": "Concept close-up",
+      "composition_action": "Two coral-colored cartoon lungs hold a nearly empty tray beneath a small O2 label.",
+      "major_change": "Cut from the whole shore to the breathing mechanism",
+      "color_structure": "Coral lungs, small blue label, white background",
+      "people_rule": "No human character; anthropomorphic organs carry the reaction",
+      "onscreen_text": ["O2"],
+      "accuracy_constraints": ["Concept diagram", "Too little oxygen does not mean literally zero oxygen"],
+      "image_review_status": "pending",
+      "image_sha256": null
+    }
+  ]
+}
